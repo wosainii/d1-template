@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "bfd590cc-f599-4561-8d10-cf6215f7f30a",
+			"database_name": "oyama-journal"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
